@@ -18,7 +18,7 @@ int main(int argc, const char * argv[])
         NSLog(@"=== Welcome to Pizza Restaurant ===");
         
         while (TRUE) {
-            NSLog(@"Please pick your pizza size and toppings(tomato, sauce, mozzeralla, cheese, pepperonni, anchovi):");
+            NSLog(@"Pls pick up pizza size and toppings(tomato, cheese, pepperonni, anchovi):");
             NSLog(@"> ");
             char str[100];
             fgets (str, 100, stdin);
