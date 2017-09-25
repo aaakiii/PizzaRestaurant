@@ -1,0 +1,293 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		61DDB5821F55EEC400C322CA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DDB5811F55EEC400C322CA /* main.m */; };
+		61DDB58A1F55EEDD00C322CA /* CheeryManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DDB5891F55EEDD00C322CA /* CheeryManager.m */; };
+		61DDB58D1F55EEE700C322CA /* Kitchen.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DDB58C1F55EEE700C322CA /* Kitchen.m */; };
+		61DDB5931F55EEF800C322CA /* HateAnchoviesManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DDB58F1F55EEF800C322CA /* HateAnchoviesManager.m */; };
+		61DDB5941F55EEF800C322CA /* Pizza.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DDB5911F55EEF800C322CA /* Pizza.m */; };
+		61DDB5971F55EF5B00C322CA /* DeliveryService.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DDB5961F55EF5B00C322CA /* DeliveryService.m */; };
+		61DDB59A1F55EF7A00C322CA /* DeliveryCar.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DDB5991F55EF7A00C322CA /* DeliveryCar.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		61DDB57C1F55EEC400C322CA /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		61DDB57E1F55EEC400C322CA /* PizzaRestaurant */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PizzaRestaurant; sourceTree = BUILT_PRODUCTS_DIR; };
+		61DDB5811F55EEC400C322CA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		61DDB5881F55EED800C322CA /* CheeryManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CheeryManager.h; sourceTree = "<group>"; };
+		61DDB5891F55EEDD00C322CA /* CheeryManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CheeryManager.m; sourceTree = "<group>"; };
+		61DDB58B1F55EEE300C322CA /* Kitchen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Kitchen.h; sourceTree = "<group>"; };
+		61DDB58C1F55EEE700C322CA /* Kitchen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Kitchen.m; sourceTree = "<group>"; };
+		61DDB58E1F55EEF800C322CA /* HateAnchoviesManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HateAnchoviesManager.h; sourceTree = "<group>"; };
+		61DDB58F1F55EEF800C322CA /* HateAnchoviesManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HateAnchoviesManager.m; sourceTree = "<group>"; };
+		61DDB5901F55EEF800C322CA /* Pizza.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Pizza.h; sourceTree = "<group>"; };
+		61DDB5911F55EEF800C322CA /* Pizza.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Pizza.m; sourceTree = "<group>"; };
+		61DDB5921F55EEF800C322CA /* PizzaRestaurant-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "PizzaRestaurant-Prefix.pch"; sourceTree = "<group>"; };
+		61DDB5951F55EF5B00C322CA /* DeliveryService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeliveryService.h; sourceTree = "<group>"; };
+		61DDB5961F55EF5B00C322CA /* DeliveryService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeliveryService.m; sourceTree = "<group>"; };
+		61DDB5981F55EF7A00C322CA /* DeliveryCar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeliveryCar.h; sourceTree = "<group>"; };
+		61DDB5991F55EF7A00C322CA /* DeliveryCar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeliveryCar.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		61DDB57B1F55EEC400C322CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		61DDB5751F55EEC400C322CA = {
+			isa = PBXGroup;
+			children = (
+				61DDB5801F55EEC400C322CA /* PizzaRestaurant */,
+				61DDB57F1F55EEC400C322CA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		61DDB57F1F55EEC400C322CA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				61DDB57E1F55EEC400C322CA /* PizzaRestaurant */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		61DDB5801F55EEC400C322CA /* PizzaRestaurant */ = {
+			isa = PBXGroup;
+			children = (
+				61DDB5881F55EED800C322CA /* CheeryManager.h */,
+				61DDB5891F55EEDD00C322CA /* CheeryManager.m */,
+				61DDB58B1F55EEE300C322CA /* Kitchen.h */,
+				61DDB58C1F55EEE700C322CA /* Kitchen.m */,
+				61DDB5811F55EEC400C322CA /* main.m */,
+				61DDB58E1F55EEF800C322CA /* HateAnchoviesManager.h */,
+				61DDB58F1F55EEF800C322CA /* HateAnchoviesManager.m */,
+				61DDB5901F55EEF800C322CA /* Pizza.h */,
+				61DDB5911F55EEF800C322CA /* Pizza.m */,
+				61DDB5921F55EEF800C322CA /* PizzaRestaurant-Prefix.pch */,
+				61DDB5951F55EF5B00C322CA /* DeliveryService.h */,
+				61DDB5961F55EF5B00C322CA /* DeliveryService.m */,
+				61DDB5981F55EF7A00C322CA /* DeliveryCar.h */,
+				61DDB5991F55EF7A00C322CA /* DeliveryCar.m */,
+			);
+			name = PizzaRestaurant;
+			path = Assignment12;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		61DDB57D1F55EEC400C322CA /* PizzaRestaurant */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 61DDB5851F55EEC400C322CA /* Build configuration list for PBXNativeTarget "PizzaRestaurant" */;
+			buildPhases = (
+				61DDB57A1F55EEC400C322CA /* Sources */,
+				61DDB57B1F55EEC400C322CA /* Frameworks */,
+				61DDB57C1F55EEC400C322CA /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PizzaRestaurant;
+			productName = Assignment12;
+			productReference = 61DDB57E1F55EEC400C322CA /* PizzaRestaurant */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		61DDB5761F55EEC400C322CA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "岡田暁";
+				TargetAttributes = {
+					61DDB57D1F55EEC400C322CA = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 61DDB5791F55EEC400C322CA /* Build configuration list for PBXProject "PizzaRestaurant" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 61DDB5751F55EEC400C322CA;
+			productRefGroup = 61DDB57F1F55EEC400C322CA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				61DDB57D1F55EEC400C322CA /* PizzaRestaurant */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		61DDB57A1F55EEC400C322CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				61DDB5821F55EEC400C322CA /* main.m in Sources */,
+				61DDB59A1F55EF7A00C322CA /* DeliveryCar.m in Sources */,
+				61DDB58A1F55EEDD00C322CA /* CheeryManager.m in Sources */,
+				61DDB5931F55EEF800C322CA /* HateAnchoviesManager.m in Sources */,
+				61DDB5941F55EEF800C322CA /* Pizza.m in Sources */,
+				61DDB58D1F55EEE700C322CA /* Kitchen.m in Sources */,
+				61DDB5971F55EF5B00C322CA /* DeliveryService.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		61DDB5831F55EEC400C322CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		61DDB5841F55EEC400C322CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		61DDB5861F55EEC400C322CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		61DDB5871F55EEC400C322CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		61DDB5791F55EEC400C322CA /* Build configuration list for PBXProject "PizzaRestaurant" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				61DDB5831F55EEC400C322CA /* Debug */,
+				61DDB5841F55EEC400C322CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		61DDB5851F55EEC400C322CA /* Build configuration list for PBXNativeTarget "PizzaRestaurant" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				61DDB5861F55EEC400C322CA /* Debug */,
+				61DDB5871F55EEC400C322CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 61DDB5761F55EEC400C322CA /* Project object */;
+}

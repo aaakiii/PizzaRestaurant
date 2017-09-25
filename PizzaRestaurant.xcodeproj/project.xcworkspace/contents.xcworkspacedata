@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Pizza Restaurant.xcodeproj">
+      location = "self:/Users/AKI/Objective-C/Assignment12/PizzaRestaurant.xcodeproj">
    </FileRef>
 </Workspace>

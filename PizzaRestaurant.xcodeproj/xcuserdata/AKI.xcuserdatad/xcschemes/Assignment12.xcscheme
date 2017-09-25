@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "611F8D5F1F78B1ED00C3DA92"
-               BuildableName = "Pizza Restaurant"
-               BlueprintName = "Pizza Restaurant"
-               ReferencedContainer = "container:Pizza Restaurant.xcodeproj">
+               BlueprintIdentifier = "61DDB57D1F55EEC400C322CA"
+               BuildableName = "PizzaRestaurant"
+               BlueprintName = "PizzaRestaurant"
+               ReferencedContainer = "container:PizzaRestaurant.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "611F8D5F1F78B1ED00C3DA92"
-            BuildableName = "Pizza Restaurant"
-            BlueprintName = "Pizza Restaurant"
-            ReferencedContainer = "container:Pizza Restaurant.xcodeproj">
+            BlueprintIdentifier = "61DDB57D1F55EEC400C322CA"
+            BuildableName = "PizzaRestaurant"
+            BlueprintName = "PizzaRestaurant"
+            ReferencedContainer = "container:PizzaRestaurant.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "611F8D5F1F78B1ED00C3DA92"
-            BuildableName = "Pizza Restaurant"
-            BlueprintName = "Pizza Restaurant"
-            ReferencedContainer = "container:Pizza Restaurant.xcodeproj">
+            BlueprintIdentifier = "61DDB57D1F55EEC400C322CA"
+            BuildableName = "PizzaRestaurant"
+            BlueprintName = "PizzaRestaurant"
+            ReferencedContainer = "container:PizzaRestaurant.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "611F8D5F1F78B1ED00C3DA92"
-            BuildableName = "Pizza Restaurant"
-            BlueprintName = "Pizza Restaurant"
-            ReferencedContainer = "container:Pizza Restaurant.xcodeproj">
+            BlueprintIdentifier = "61DDB57D1F55EEC400C322CA"
+            BuildableName = "PizzaRestaurant"
+            BlueprintName = "PizzaRestaurant"
+            ReferencedContainer = "container:PizzaRestaurant.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
